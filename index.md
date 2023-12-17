@@ -8,4 +8,4 @@
 - # BULLET INDENT
   - ## BULLET DOUBLE INDENT
 
-This changes are to depict some of the options when performing markdown formating on doccumentation
+--> This changes are to depict some of the options when performing markdown formating on doccumentation <--
