@@ -17,3 +17,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] Step 1: Adding headers markdown template
+- [x] Step 2: Adding image
+- [x] Step 3: Adding code snipet example
+- [x] Step 4: Adding task list
+- [ ] Step 5: Merge your pull request
